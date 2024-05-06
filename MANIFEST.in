@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include pharmigo1 *.css
+recursive-include pharmigo1 *.csv
+recursive-include pharmigo1 *.html
+recursive-include pharmigo1 *.ico
+recursive-include pharmigo1 *.js
+recursive-include pharmigo1 *.json
+recursive-include pharmigo1 *.md
+recursive-include pharmigo1 *.png
+recursive-include pharmigo1 *.py
+recursive-include pharmigo1 *.svg
+recursive-include pharmigo1 *.txt
+recursive-exclude pharmigo1 *.pyc
