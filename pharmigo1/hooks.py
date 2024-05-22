@@ -215,4 +215,5 @@ app_license = "MIT"
 # auth_hooks = [
 #	"pharmigo1.auth.validate"
 # ]
+doctype_js = {"Sales Order": "public/sales_order_custom.js"}
 required_apps = ["erpnext"]
