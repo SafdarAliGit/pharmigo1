@@ -215,4 +215,4 @@ app_license = "MIT"
 # auth_hooks = [
 #	"pharmigo1.auth.validate"
 # ]
-required_apps = ["erpnext"] 
+required_apps = ["erpnext"]
