@@ -23,7 +23,7 @@ frappe.ui.form.on('Day Book Entry Items', {
 
         var d = locals[cdt][cdn];
         frappe.call({
-            method: 'sadiqsteel.sadiq_steel.doctype.utils.get_party_type',
+            method: 'pharmigo1.pharmigo1.doctype.utils.get_party_type',
             args: {
                 account: d.account_name,
             },
